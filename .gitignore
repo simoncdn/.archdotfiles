@@ -11,6 +11,10 @@
 .vim/
 .vscode-oss/
 .w3m/
+.config/Code
+.config/Docker
+.config/Postman
+.config/Slack
 
 Downloads/
 Pictures/
