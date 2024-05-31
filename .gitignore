@@ -2,6 +2,7 @@
 .cache/
 .cargo/
 .docker/
+.local/
 .mozilla/
 .npm/
 .nvm/
@@ -11,10 +12,16 @@
 .vim/
 .vscode-oss/
 .w3m/
+
 .config/Code
 .config/Docker
 .config/Postman
 .config/Slack
+.config/chromium
+.config/discord
+.config/obs-studio
+.config/nextjs-nodejs
+.config/dconf
 
 Downloads/
 Pictures/
